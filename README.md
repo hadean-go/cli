@@ -6,10 +6,10 @@ Semantic exit code system for Go CLI applications, based on POSIX standards and 
 
 The system provides a high-level abstraction for working with exit codes that:
 
-- [+] Compatible with existing standards (POSIX, BSD sysexits.h)
-- [+] Provides semantically meaningful error codes
-- [+] Supports error categorization
-- [+] Includes metadata (operation retryability, error type)
+- Compatible with existing standards (POSIX, BSD sysexits.h)
+- Provides semantically meaningful error codes
+- Supports error categorization
+- Includes metadata (operation retryability, error type)
 
 ## Architecture
 
